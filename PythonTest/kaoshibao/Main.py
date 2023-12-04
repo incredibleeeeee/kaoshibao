@@ -50,4 +50,4 @@ def search(question, token, time):
 
 if __name__ == '__main__':
     time = str(time.time())
-    search("mysql", "lPN8h4f1U3zucrD8VwBOTkfAq93e3dPsQyWxAtkRNbc=", time)
+    search("mysql", "", time)
